@@ -14,7 +14,5 @@ namespace CursoPresencial.Models
         [Required]
         public string Location { get; set; }
  
-        //[ForeignKey("Instructor")]
-        //public Instructor Instructor { get; set; }
     }
 }
